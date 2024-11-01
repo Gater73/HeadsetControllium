@@ -19,8 +19,12 @@ Simple Gui python app to control the cli app headsetcontrol for corsair devices.
    git clone https://github.com/Gater73/HeadsetControllium.git
    cd HeadsetControllium
    ```
+2. Install requirements:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-2. Run the Flask application:
+3. Run the Flask application:
    ```bash
    python main.py
    ```
